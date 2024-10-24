@@ -1,5 +1,20 @@
-## Conversor de Moedas Personalizado
+# Indice
 
+[Descricao](#descrição)
+
+[funcionalidades](#funcionalidades)
+
+[funcoes](#funções)
+
+[tecnologias_utilizadas](#tecnologias-utilizadas)
+
+[gif_demonstrativo](#gif-demonstrativo)
+
+[autor](#autor)
+
+
+
+## Conversor de Moedas Personalizado:
 # Descrição:
 
     Aplicação web intuitiva para conversão de moedas, com design moderno e funcionalidades avançadas.
@@ -27,10 +42,11 @@
     Contribuições:
     Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request.
 
+## Imagens demonstrativas:
 
 ## HTML
 
-![gif](img/IMGG.gif)
+![gif](img/IMAGEM.gif)
 
 
 ## CSS
@@ -51,9 +67,6 @@
 * [<code><img height="32" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VisualStudio"/></code>](https://code.visualstudio.com/)
 * [<code><img height="32" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Font Awesome "/></code>](https://fontawesome.com/versions)
  
-## gif demonstrativo:
-
-
 
 ## Autor:
 |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140835172?v=4 " width=115><br><sub>Luan Alencar</sub>](https://github.com/luan18alencar) |  
