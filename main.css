@@ -6,7 +6,8 @@
 /* Estilizando o corpo da página */
 body {
     font-family: 'Arial', sans-serif; /* Definindo a fonte para Arial */
-    background-color: #facf43; /* Cor de fundo amarela clara */
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background: linear-gradient(-45deg, #6d0500, #000270, #6d010c);
     margin: 0; /* Removendo as margens padrão do body */
     padding: 0; /* Removendo o padding padrão do body */
     color: #ffffff; /* Cor do texto em branco */
