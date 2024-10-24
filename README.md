@@ -4,11 +4,9 @@
 
 [funcionalidades](#funcionalidades)
 
-[funcoes](#funções)
-
 [tecnologias_utilizadas](#tecnologias-utilizadas)
 
-[gif_demonstrativo](#gif-demonstrativo)
+[imagens_demonstrativas](#imagens-demonstrativas)
 
 [autor](#autor)
 
@@ -47,7 +45,6 @@
 ## HTML
 
 ![gif](img/IMAGEM.gif)
-
 
 ## CSS
 
