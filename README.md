@@ -37,6 +37,9 @@
 
 ![gif](img/immg.gif)
 
+## JavaScript
+
+![gif](img/jva.gif)
 
 
 ## Tecnologias utilizadas:
