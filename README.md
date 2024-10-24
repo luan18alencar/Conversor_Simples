@@ -27,6 +27,18 @@
     Contribuições:
     Se você quiser contribuir para este projeto, fique à vontade para abrir um pull request.
 
+
+## HTML
+
+![gif](img/IMGG.gif)
+
+
+## CSS
+
+![gif](img/immg.gif)
+
+
+
 ## Tecnologias utilizadas:
  
  
@@ -38,7 +50,7 @@
  
 ## gif demonstrativo:
 
-![gif](img/IMGG.gif)
+
 
 ## Autor:
 |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140835172?v=4 " width=115><br><sub>Luan Alencar</sub>](https://github.com/luan18alencar) |  
